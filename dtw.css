@@ -1,0 +1,15 @@
+#title { 
+color: #160E3B  ; 
+font-weight: bold;
+text-align: center;
+font-size: 40px;
+}  
+
+.rounded-image{ 
+border-radius: 50%; 
+}
+
+#body1 { 
+background-image: url("red-waves-background.jpg");
+background-repeat: repeat-x; 
+}
